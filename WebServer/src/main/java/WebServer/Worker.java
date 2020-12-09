@@ -12,7 +12,7 @@ public class Worker extends Thread{
 	Worker(RequestPool requests, int number){
 		this.requests = requests;
 		this.isActive = true;
-		this.number = number;
+		this.number = number; 
 	}
 	
 	public void run() {
