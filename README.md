@@ -19,6 +19,7 @@ LB 제공 기능 상세(생각날 때마다 업데이트)
 - Auto-scaling 지원(scale-in, scale-out), Stateful
 - Web 관리 도구 제공(Backend 설정 등 각종 관리 기능 제공)
 - HTTPS 지원
+- Backend와의 연결 사전 
 
 ### Non-functional Requirements
 LB 관련 제약사항, fail-over 관련 상세
